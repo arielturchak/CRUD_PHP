@@ -26,7 +26,7 @@ if( $validar == null || $validar = ''){
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
      body{
-        background-image: url('../img/mobile-phone3.jpg');
+        background-image: url('../img/mobile-phone10.jpg');
         color: aliceblue;
       }
     </style>

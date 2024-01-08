@@ -37,9 +37,28 @@ $usuario = mysqli_fetch_assoc($resultado);//obtengo un array de la fila que coin
     <link rel="stylesheet" href="../css/es.css">
     <style>
      body{
+<<<<<<< HEAD
         background-image: url('../img/mobile-phone3.jpg');
         color: aliceblue;
       }
+=======
+        background-image: url('../img/mobile-phone11.jpg');
+        color: aliceblue;
+        background-size: cover;
+      }
+      form{
+            position: absolute;
+            top: 40%;
+            left: 50%;
+            width: 600px;
+            padding: 20px;
+            transform: translate(-50%, -50%);
+            box-sizing: border-box;
+            box-shadow: 0 15px 25px rgba(0, 0, 0, .9);
+            border-radius: 10px; 
+            background: rgba(0, 0, 0, .7); 
+        }
+>>>>>>> master
     </style>
 </head>
 

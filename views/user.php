@@ -24,8 +24,11 @@ if ($validar == null || $validar == '') {//si no existe el nombre de usuario o e
     <title>Usuarios</title>
     <style>
       body{
-        background-image: url('../img/mobile-phone3.jpg');
-        color: aliceblue;
+        background-image: url('../img/mobile-phone7.jpg');
+        background-size:cover;
+        color: white;
+        text-shadow: 5px 15px 15px solid red;
+        
       }
     </style>
 </head>

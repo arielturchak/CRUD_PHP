@@ -1,7 +1,10 @@
 <?php
 
 session_start();
+<<<<<<< HEAD
 error_reporting(0);
+=======
+>>>>>>> master
 
 $validar = $_SESSION['nombre'];
 
@@ -29,9 +32,28 @@ if( $validar == null || $validar = ''){
     <link rel="stylesheet" href="./css/styles.css">
     <style>
          body{
+<<<<<<< HEAD
             background-image: url('img/mobile-phone3.jpg');
         color: aliceblue;
       }
+=======
+            background-image: url('img/mobile-phone8.jpg');
+            color: white;      
+      }
+        form{
+            position: absolute;
+            top: 40%;
+            left: 50%;
+            width: 600px;
+            padding: 20px;
+            transform: translate(-50%, -50%);
+            box-sizing: border-box;
+            box-shadow: 0 15px 25px rgba(0, 0, 0, .9);
+            border-radius: 10px; 
+            background: rgba(0, 0, 0, .7); 
+        }
+
+>>>>>>> master
     </style>
 </head>
 

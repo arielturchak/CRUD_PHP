@@ -24,7 +24,11 @@ if ($validar == null || $validar == '') {
     <title>Usuarios</title>
     <style>
      body{
+<<<<<<< HEAD
             background-image: url('../img/mobile-phone3.jpg');
+=======
+            background-image: url('../img/mobile-phone9.jpg');
+>>>>>>> master
         color: aliceblue;
       }
       </style>
